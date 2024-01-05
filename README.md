@@ -1,8 +1,8 @@
-🚀 **Senior Software Engineer | ReactJS, NodeJS, Python Maestro** 
+Hi 👋, I'm Nicanor Korir
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicanor008&label=Profile%20views&color=0e75b6&style=flat" alt="nicanor" /> </p>
 
-Am a passionate software engineer with expertise in crafting robust applications using different technologies. My code journey is fueled by a love for innovation and problem-solving. As a software engineer and a cloud architect, I navigate the realms of AWS and GCP to build scalable solutions that stand the test of tech challenges.
+🚀 Am a passionate software engineer with expertise in crafting robust applications using different technologies. My code journey is fueled by a love for innovation and problem-solving. As a software engineer and a cloud architect, I navigate the realms of AWS and GCP to build scalable solutions that stand the test of tech challenges.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nicanor008" alt="Nicanorkorir" /></a> </p>
 

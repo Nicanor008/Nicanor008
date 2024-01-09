@@ -6,18 +6,44 @@ Hi 👋, I'm Nicanor Korir
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nicanor008" alt="Nicanorkorir" /></a> </p>
 
-
 **💡 What I Do:**
 - Transforming ideas into elegant code.
 - Architecting efficient and scalable solutions.
 - Continuous learning in the ever-evolving tech landscape.
 - Mentoring colleagues
 
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicanor008&show_icons=true&locale=en&layout=compact" alt="nicanor008" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicanor008&show_icons=true&locale=en" alt="nicanor008" /></p>
+-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicanor008&" alt="nicanor008" /></p>
+<div align="center">
+<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicanor008&theme=github_dark" alt="Nicanor's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=nicanor008&theme=merko" alt="Nicanor's Contribution Streak"/></td>
+    </tr>
+ </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicanor008&theme=github_dark" alt="Nicanor's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nicanor008&theme=github_dark&utcOffset=10" alt="Nicanor's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicanor008&theme=github_dark" alt="Nicanor's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicanor008&theme=github_dark" alt="Nicanor's GitHub Stats"/></td>
+    </tr>
+ </table>
+</div>
+
+<h3>Tools and Technologies</h3>
+<div align="center">
+    <!-- Replace with your framework skills -->
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <!-- Add more badges similarly -->
+</div>
 
 **🌐 Let's Connect:**
 - [LinkedIn](https://linkedin.com/in/nicanor-korir/) |
